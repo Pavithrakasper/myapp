@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Week3</string>
+    <string name="Text_name">Register</string>
+    <string name="User_name_hint">Enter Your Name</string>
+    <string name="User_mail_hint">Enter Your Email</string>
+    <string name="User_gender">Gender</string>
+    <string name="User_male">Male</string>
+    <string name="User_female">Female</string>
+    <string name="conditions"><![CDATA[Accept t&c]]></string>
+    <string name="btn">Recyclebtn</string>
+    <string name="okbtn">Ok</string>
+</resources>
